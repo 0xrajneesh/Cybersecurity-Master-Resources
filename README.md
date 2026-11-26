@@ -31,6 +31,10 @@ Every guide follows the same flow: **Detect → Investigate → Respond**, using
 | Suspicious Remote Access | Risky RDP and remote tool sessions | [Open guide](suspicious-remote-access/README.md) |
 | Unusual Data Transfer | Large or unusual outbound data (exfiltration) | [Open guide](unusual-data-transfer/README.md) |
 
+## 30 SOC Interview Questions
+
+Preparing for a SOC analyst interview? [**30 SOC Interview Questions**](30-SOC-Interview-Questions/README.md) covers real alert scenarios, core concepts and hands-on questions, each with the trap answer, the strong answer and a one-line answer to memorise.
+
 ## How to Use the Queries
 
 - Replace placeholders like `<DeviceName>`, `<AccountName>` and `<IP>` with values from your alert.
